@@ -1,0 +1,12 @@
+C:\Users\ensar.skopljak\source\repos\AdventOfCode\AdventOfCode\bin\Debug\netcoreapp3.1\AdventOfCodeDay4.exe
+C:\Users\ensar.skopljak\source\repos\AdventOfCode\AdventOfCode\bin\Debug\netcoreapp3.1\AdventOfCodeDay4.deps.json
+C:\Users\ensar.skopljak\source\repos\AdventOfCode\AdventOfCode\bin\Debug\netcoreapp3.1\AdventOfCodeDay4.runtimeconfig.json
+C:\Users\ensar.skopljak\source\repos\AdventOfCode\AdventOfCode\bin\Debug\netcoreapp3.1\AdventOfCodeDay4.runtimeconfig.dev.json
+C:\Users\ensar.skopljak\source\repos\AdventOfCode\AdventOfCode\bin\Debug\netcoreapp3.1\AdventOfCodeDay4.dll
+C:\Users\ensar.skopljak\source\repos\AdventOfCode\AdventOfCode\bin\Debug\netcoreapp3.1\AdventOfCodeDay4.pdb
+C:\Users\ensar.skopljak\source\repos\AdventOfCode\AdventOfCode\obj\Debug\netcoreapp3.1\AdventOfCodeDay4.AssemblyInfoInputs.cache
+C:\Users\ensar.skopljak\source\repos\AdventOfCode\AdventOfCode\obj\Debug\netcoreapp3.1\AdventOfCodeDay4.AssemblyInfo.cs
+C:\Users\ensar.skopljak\source\repos\AdventOfCode\AdventOfCode\obj\Debug\netcoreapp3.1\AdventOfCodeDay4.csproj.CoreCompileInputs.cache
+C:\Users\ensar.skopljak\source\repos\AdventOfCode\AdventOfCode\obj\Debug\netcoreapp3.1\AdventOfCodeDay4.dll
+C:\Users\ensar.skopljak\source\repos\AdventOfCode\AdventOfCode\obj\Debug\netcoreapp3.1\AdventOfCodeDay4.pdb
+C:\Users\ensar.skopljak\source\repos\AdventOfCode\AdventOfCode\obj\Debug\netcoreapp3.1\AdventOfCodeDay4.genruntimeconfig.cache
